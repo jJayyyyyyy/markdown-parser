@@ -18,7 +18,7 @@ python3 mdparser.py [blog.md]
 
 ##  Demo
 
-*   Here is a demo `markdown` text [blog.md](./demo/blog.md), and its corresponding html text [blog.html](./demo/blog.html) would be like this
+*   Here is a demo `markdown` text [blog.md](./blog.md), and its corresponding html text [blog.html](./blog.html) would be like this
 
     ![demo](./demo.png)
 
@@ -31,6 +31,8 @@ python3 mdparser.py [blog.md]
 *   ordered list, `ol`, 有序列表
 
 *   a formal specification
+
+<br>
 
 ##  Reference
 
