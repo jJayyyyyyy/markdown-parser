@@ -60,8 +60,7 @@ class MarkdownParser:
 
     def print_todo(self):
         todo = """[TODO]:
-        1. 空行
-        2. code color style map
+        1. code color style map
         """
         print(todo)
 
